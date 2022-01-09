@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @peepeero
-- 👀 I’m interested in physics, chemistry biology with a side interest in mathemat8ical fincance 
+- 👀 I’m interested in physics, chemistry biology with a side interest in mathematical fincance 
 - 🌱 I’m currently learning c++
 
 
